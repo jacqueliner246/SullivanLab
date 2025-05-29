@@ -1,2 +1,3 @@
 # SullivanLab
-a place to store r files for the kbs reu summer program in the sullivan lab
+A place to store r files and data for the KBS REU summer program in the Sullivan Lab
+
